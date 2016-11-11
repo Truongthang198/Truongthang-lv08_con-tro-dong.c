@@ -37,7 +37,7 @@ Cú pháp
 Hàm có chức năng cấp phát lại bộ nhớ,trong đó:
 <li>buf_p là con trỏ đang trỏ đến vùng ô nhớ đã được cấp phát từ trước.
 <li>newsize là kích thước mới cần cấp phát, có thể lớn hoặc nhỏ hơn.
-<ul/>****2.4 Giải phóng bộ nhớ bằng hàm free***
+<ul/>2.4 Giải phóng bộ nhớ bằng hàm free***
 <ul/>Cú pháp
 
 void free( void *prt)
